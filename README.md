@@ -1,2 +1,2 @@
 # startitgreen
-wordpres to static website
+wordpress to static website
