@@ -1,2 +1,2 @@
 # startitgreen
-wordpresss to static website
+wordpress to static website
